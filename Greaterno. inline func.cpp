@@ -1,7 +1,7 @@
 // Write a program to find the greater no. using inline func.?
 /* code starts */
 #include<iostream>
-using std::cin;
+using std::cin; //input for user
 using std::cout;
 
 //greater function starts
@@ -23,7 +23,7 @@ int greater(int a,int b)
 int main()
 {
 	int a,b,c;
-	cin>>a>>b;
+	cin>>a>>b;  
 	c=greater(a,b);
 	cout<<c;
 	
