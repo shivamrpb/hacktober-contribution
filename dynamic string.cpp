@@ -2,6 +2,7 @@
 #include<stdio.h>
 using namespace std;
 
+//class str
 class str
 {
 	char *name;
