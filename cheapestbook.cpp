@@ -31,7 +31,7 @@ int main()
 	
 }
 
-
+//cheapest function
 int cheapest(book a[], int n)
 {
 	int l=a[0].price;
