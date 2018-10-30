@@ -17,6 +17,7 @@ class id
 		friend class inc;
 };
 
+//class inc
 class inc
 {
 	public:
