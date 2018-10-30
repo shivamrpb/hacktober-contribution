@@ -1,4 +1,4 @@
-// Write a program to find the greater no. using inline func.?
+//Write a program to find the greater no. using inline func.?
 /* code starts */
 #include<iostream>
 using std::cin; //input for user
@@ -11,7 +11,7 @@ int greater(int a,int b)
 {
 	if(a>b)
 	{
-		return a;
+		return a;//a will be greater number
 	}
 	
 	else
